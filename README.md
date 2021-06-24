@@ -3,13 +3,10 @@
 
 #### interests
 UI / UX · Data visualization · Visual interactions
-<hr/>
 #### contact
 kmoffi@naver.com
-<hr/>
 #### blog
 https://butterwalnut.tistory.com/
-<hr/>
 #### Tech stacks
 <div>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
