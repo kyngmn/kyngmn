@@ -2,12 +2,15 @@
 <img src="https://img.shields.io/badge/2021.02.21 ~ -20232A?style=for-the-badge&logo=" />
 
 #### interests
+<hr/>
 UI / UX · Data visualization · Visual interactions
 
 #### contact
+<hr/>
 kmoffi@naver.com
 
 #### blog
+<hr/>
 https://butterwalnut.tistory.com/
 
 #### Tech stacks
