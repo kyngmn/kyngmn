@@ -1,18 +1,18 @@
 ## 안녕하세요! *FRONTEND developer* 최경민입니다!🙌
-
-<img src="https://img.shields.io/badge/2021.02.21 ~ -20232A?style=for-the-badge&logo=" />
-<img src="https://img.shields.io/badge/Interests-20232A?style=for-the-badge&logo=" />
-
-  <div>
+<div>
+<img src="https://img.shields.io/badge/2021.02.21 ~ -20232A?style=for-the-badge&logo=" /> ⛵
+</div>
+### Interests
+<div>
 <img src="https://img.shields.io/badge/UI / UX-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data visualization-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Visual interactions-blueviolet?style=for-the-badge" />
 </div>
-#### Contact
+### Contact
 ##### kmoffi@naver.com
-#### Blog
+### Blog
 ##### https://butterwalnut.tistory.com/
-#### Tech stacks
+### Tech stacks
 <div>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="http://img.shields.io/badge/-styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
