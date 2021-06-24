@@ -1,4 +1,4 @@
-## Hi, I'm FRONTEND developer Kyungmin Choi!🙌
+## Hi, I'm *FRONTEND developer* Kyungmin Choi!🙌
 <img src="https://img.shields.io/badge/2021.02.21 ~ -20232A?style=for-the-badge&logo=" />
 
 <img src="https://img.shields.io/badge/Interests-20232A?style=for-the-badge&logo=" />
