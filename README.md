@@ -1,9 +1,9 @@
-## Hi, I'm *FRONTEND developer* Kyungmin Choi!🙌
+## 안녕하세요! *FRONTEND developer* 최경민입니다!🙌
 <img src="https://img.shields.io/badge/2021.02.21 ~ -20232A?style=for-the-badge&logo=" />
-
 <img src="https://img.shields.io/badge/Interests-20232A?style=for-the-badge&logo=" />
-<img src="https://img.shields.io/badge/UI / UX-red?style=for-the-badge&logoColor=yellow" />
-##### UI / UX · Data visualization · Visual interactions
+<img src="https://img.shields.io/badge/UI / UX-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data visualization-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Visual interactions-blueviolet?style=for-the-badge" />
 #### Contact
 ##### kmoffi@naver.com
 #### Blog
