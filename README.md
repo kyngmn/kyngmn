@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/2021.02.21 ~ -20232A?style=for-the-badge&logo=" />
 
 <img src="https://img.shields.io/badge/Interests-20232A?style=for-the-badge&logo=" />
-<img src="https://img.shields.io/badge/UI / UX-20232A?style=for-the-badge&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/UI / UX-yellow?style=for-the-badge&logoColor=yellow" />
 ##### UI / UX · Data visualization · Visual interactions
 #### Contact
 ##### kmoffi@naver.com
