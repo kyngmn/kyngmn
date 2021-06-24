@@ -1,12 +1,12 @@
 ### 안녕하세요, Frontend 개발자 최경민입니다!🙌
 <img src="https://img.shields.io/badge/2021.02.21 ~ -20232A?style=for-the-badge&logo=" />
 
-#### interests
+#### Interests
 ##### UI / UX · Data visualization · Visual interactions
-#### contact
-kmoffi@naver.com
-#### blog
-https://butterwalnut.tistory.com/
+#### Contact
+##### kmoffi@naver.com
+#### Blog
+##### https://butterwalnut.tistory.com/
 #### Tech stacks
 <div>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
