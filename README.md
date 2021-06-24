@@ -1,9 +1,8 @@
 ### 안녕하세요, Frontend 개발자 최경민입니다!🙌
 <img src="https://img.shields.io/badge/2021.02.21 ~ -20232A?style=for-the-badge&logo=" />
 
-##### studied interior architecture
 #### interests
-UI / UX · Data visualization · Visual interactions
+##### UI / UX · Data visualization · Visual interactions
 #### contact
 kmoffi@naver.com
 #### blog
