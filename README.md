@@ -1,8 +1,8 @@
-### 안녕하세요, Frontend 개발자가 되고 싶은 최경민입니다!🙌
+### 안녕하세요, Frontend 개발자 최경민입니다!🙌
+<img src="https://img.shields.io/badge/웹개발공부중-20232A?style=for-the-badge&logo=" /> 2021.02.21 ~
 
-#### interests  UI / UX · Data visualization · Visual interaction
-
-#### footprints
+#### interests
+UI / UX · Data visualization · Visual interactions
 
 #### contact
 kmoffi@naver.com
