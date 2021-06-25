@@ -24,8 +24,6 @@
 <img src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
 <img src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</div> 
-<div>
 <img src="http://img.shields.io/badge/-Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white" />
 <img src="http://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 <img src="http://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
